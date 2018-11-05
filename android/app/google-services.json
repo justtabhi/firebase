@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "556726711914",
+    "firebase_url": "https://flutter-intro-setup-d8902.firebaseio.com",
+    "project_id": "flutter-intro-setup-d8902",
+    "storage_bucket": "flutter-intro-setup-d8902.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556726711914:android:69a282e872a0e448",
+        "android_client_info": {
+          "package_name": "com.example.firebasesetup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556726711914-g1qqv4p7a80rjah7p0rnl48s443uef0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4dQJxmlsPRSrqxeJ2_aRvIenTyle0voc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
